@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I’m Nilesh Deb<br>I build end-to-end backend systems and data-driven applications, and I also develop clean, responsive frontends to deliver complete user-facing products. I focus on handling requests, implementing business logic, managing data, designing APIs, and integrating machine learning models into real applications, while ensuring the frontend communicates efficiently with the backend.<br>I don’t limit myself to a single tech stack — I focus on core backend fundamentals, system flow, frontend–backend integration, and clean architecture that can scale and adapt across tools and frameworks.<br><br>🚀 What I can do<br>Design and build backend systems that handle APIs, validation, authentication logic, and data processing<br>Develop RESTful APIs and connect them with frontend applications<br>Build end-to-end ML applications: data preparation, model training, prediction, and integration into backend services<br>Implement clean project structures with separation of concerns (frontend, backend, ML)<br>Handle error cases, edge cases, and data consistency to make systems reliable<br>Work with databases, write efficient queries, and manage application data flow<br>Use Git/GitHub for version control and collaborative development
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nilesh-deb-b90094260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debnilesh69@gmail.com) 
@@ -8,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nileshdeb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nileshdeb&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshdeb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nileshdeb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nileshdeb&limit=5&theme=dark&combine_all_yearly_contributions=true)
